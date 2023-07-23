@@ -1,0 +1,81 @@
+.Math-quiz{
+    background-color: #ce4a4a;
+}
+
+.null{
+    margin-left: 21px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.nulls{
+    margin-bottom: 32px;
+}
+
+.TITLE{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 300;
+    color: white;
+}
+
+.QUESTION{
+    text-align: center;
+    font-weight: 300;
+    color: white;
+    font-size: 40px;
+}
+
+.ANSWER{
+    text-align: center;
+    font-weight: 300;
+    color: white;
+    font-size: 40px;
+}
+
+#INPUT-1{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 5px;
+    float: none;
+    text-align: left;
+    margin-left: 475px;
+    width: 800px;
+}
+
+.Enter{
+    border-radius: 4px;
+    width: 200px;
+    margin-left: 15px;
+}
+
+.numk{
+    text-align: center;
+    color: white;
+    font-weight: 300;
+}
+
+.numks{
+    border-radius: 8px;
+    height: 40px;
+    width: 1500px;
+    margin-left: 100px;
+    font-weight: 300;
+}
+
+.alaalaalal{
+        color: white;
+        text-decoration: none;
+        cursor: auto;
+        text-decoration: none;
+}
+
+.alaalaalal :hover{
+        color: white;
+        text-decoration: none;
+        cursor: auto;
+        text-decoration: none;
+}
